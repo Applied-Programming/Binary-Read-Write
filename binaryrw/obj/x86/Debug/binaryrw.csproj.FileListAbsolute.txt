@@ -1,0 +1,16 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\bin\Debug\binaryrw.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\bin\Debug\binaryrw.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\binaryrw.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\binaryrw.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\binaryrw.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\binaryrw\binaryrw\obj\x86\Debug\binaryrw.pdb
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\obj\x86\Debug\binaryrw.exe
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\obj\x86\Debug\binaryrw.pdb
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\bin\Debug\binaryrw.exe
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\bin\Debug\binaryrw.pdb
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\obj\x86\Debug\binaryrw.Form1.resources
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\obj\x86\Debug\binaryrw.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\Binary-Read-Write\binaryrw\obj\x86\Debug\binaryrw.csproj.GenerateResource.Cache
